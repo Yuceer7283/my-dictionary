@@ -1,0 +1,20 @@
+C:\Users\yunus\Desktop\accessmvbSozluk\mvbSozluk\mvbSozluk\bin\Debug\mvbSozluk.exe.config
+C:\Users\yunus\Desktop\accessmvbSozluk\mvbSozluk\mvbSozluk\bin\Debug\mvbSozluk.exe
+C:\Users\yunus\Desktop\accessmvbSozluk\mvbSozluk\mvbSozluk\bin\Debug\mvbSozluk.pdb
+C:\Users\yunus\Desktop\accessmvbSozluk\mvbSozluk\mvbSozluk\obj\Debug\mvbSozluk.csproj.AssemblyReference.cache
+C:\Users\yunus\Desktop\accessmvbSozluk\mvbSozluk\mvbSozluk\obj\Debug\mvbSozluk.Form1.resources
+C:\Users\yunus\Desktop\accessmvbSozluk\mvbSozluk\mvbSozluk\obj\Debug\mvbSozluk.Properties.Resources.resources
+C:\Users\yunus\Desktop\accessmvbSozluk\mvbSozluk\mvbSozluk\obj\Debug\mvbSozluk.csproj.GenerateResource.cache
+C:\Users\yunus\Desktop\accessmvbSozluk\mvbSozluk\mvbSozluk\obj\Debug\mvbSozluk.csproj.CoreCompileInputs.cache
+C:\Users\yunus\Desktop\accessmvbSozluk\mvbSozluk\mvbSozluk\obj\Debug\mvbSozluk.exe
+C:\Users\yunus\Desktop\accessmvbSozluk\mvbSozluk\mvbSozluk\obj\Debug\mvbSozluk.pdb
+C:\visual\Visual Studio P\accessmvbSozluk\mvbSozluk\mvbSozluk\obj\Debug\mvbSozluk.csproj.AssemblyReference.cache
+C:\visual\Visual Studio P\accessmvbSozluk\mvbSozluk\mvbSozluk\obj\Debug\mvbSozluk.Form1.resources
+C:\visual\Visual Studio P\accessmvbSozluk\mvbSozluk\mvbSozluk\obj\Debug\mvbSozluk.Properties.Resources.resources
+C:\visual\Visual Studio P\accessmvbSozluk\mvbSozluk\mvbSozluk\obj\Debug\mvbSozluk.csproj.GenerateResource.cache
+C:\visual\Visual Studio P\accessmvbSozluk\mvbSozluk\mvbSozluk\obj\Debug\mvbSozluk.csproj.CoreCompileInputs.cache
+C:\visual\Visual Studio P\accessmvbSozluk\mvbSozluk\mvbSozluk\obj\Debug\mvbSozluk.exe
+C:\visual\Visual Studio P\accessmvbSozluk\mvbSozluk\mvbSozluk\obj\Debug\mvbSozluk.pdb
+C:\visual\Visual Studio P\accessmvbSozluk\mvbSozluk\mvbSozluk\bin\Debug\mvbSozluk.exe.config
+C:\visual\Visual Studio P\accessmvbSozluk\mvbSozluk\mvbSozluk\bin\Debug\mvbSozluk.exe
+C:\visual\Visual Studio P\accessmvbSozluk\mvbSozluk\mvbSozluk\bin\Debug\mvbSozluk.pdb
